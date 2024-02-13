@@ -6,7 +6,7 @@ Cryptocurrency_Machine_Learning:
 
 Using Python in conjunction with Unsupervised Machine Learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-Follow CSV Data Output: 
+Imported CSV Data Output Chart: 
 
 ![image](https://github.com/davisdw/Cryptocurrency_Machine_Learning/assets/104311388/63780b45-7bbd-408c-97fa-40718f9024b6)
 
